@@ -1,0 +1,47 @@
+html *
+{
+   color: #676767 !important;
+   font-family: 'Roboto', sans-serif;
+}
+
+ul>li>div{
+  cursor: pointer;
+}
+
+ul>li:hover{
+  background-color: #E0E0E0;
+}
+
+.list-group{
+  margin-top: 14px;
+}
+
+.header{
+  /*background-color: #E0E0E0;*/
+}
+
+.filters{
+    margin: 12px;
+}
+
+.backgrey{
+  background-color: #FAFAFA;
+}
+
+.seleccionado{
+  background-color: #E0E0E0;
+}
+
+
+.wrapper{
+  margin-top: 50px;
+}
+
+select{
+  font-size: 25px;
+}
+
+input{
+  margin-right: 20px;
+  width: 300px;
+}
